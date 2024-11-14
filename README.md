@@ -6,7 +6,7 @@
 - 📫 How to reach me ... ucancallmekai@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... i want to be a data scientist 🔥🔥
-- help me learn and i will remember you til the last day of my life
+- help me learn and i will remember you till the last day of my life
 
 <!---
 KAI-007CODE/KAI-007CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
